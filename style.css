@@ -62,9 +62,13 @@
 }
 
 .radius {
-  border-radius: 15px;
+  border-radius: 15px !important;
 }
 
 .index {
   z-index: 1;
+}
+
+.row-span {
+  height: 30vh;
 }
